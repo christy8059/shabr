@@ -1,0 +1,10 @@
+.container{
+    background:grey;
+    
+}
+
+@media(min-width:768px){
+    .container{
+        width:50%;
+    }
+}
