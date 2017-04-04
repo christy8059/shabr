@@ -1,12 +1,26 @@
-.container{
-    background:grey;
-    text-align: center;
+.row{
+    background:gray;
+    height:75px;
+}
+
+#addColor{
+    background:blue;
+    height:50px;
+}
+
+#boxOne{
+    background:red;
+    height:50px;
+}
+#wrapper{
+    text-align:center;
+    background:white;
+    padding:30px;
+    width:50%;
+
     
 }
+ul{
+    list-style: none;
 
-@media(min-width:768px){
-    .container{
-        width:50%;
-   }
 }
-
